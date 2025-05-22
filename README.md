@@ -1,7 +1,7 @@
 
 # Strider Luxe – Limited Edition Sneaker Store 🏁👟
 
-**Strider Luxe** is a full-stack web application designed for selling exclusive, limited-edition sneakers. It offers seamless user experience across frontend and backend, complete with user authentication, product browsing, smart search, cart management, and order processing.
+**Strider Luxe ** is a full-stack web application designed for selling exclusive, limited-edition sneakers. It offers seamless user experience across frontend and backend, complete with user authentication, product browsing, smart search, cart management, and order processing.
 
 ---
 
